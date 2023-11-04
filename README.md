@@ -8,8 +8,11 @@ As we know in the market numetous products available that allow real time "Chatt
 
 # Features :
 Kotlin based
+
 Mobile Chat Application
+
 User-Friendly UI
+
 user can send messages, pictures and other files.
 
 # ScreenShots of App:
